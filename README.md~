@@ -1,14 +1,14 @@
 This is the README for varnish-connections.sh
 
-# Information
+1) Information
  This is a Plugin for SYSUSAGE v3 to show varnishd connections and requests
  please refer to http://sysusage.darold.net/ for questions regarding SysUsage
  Refer to makeITyourway.de for questions regarding this plugin
  Mike Schiessl - info@makeityourway.de
 
-# Installation
- - copy the "varnish-connections.sh" to your SysUsage /plugins/ directory
- - append the following lines to your SysUsage Cfg and change your plugin path
+2) Installation
+  - copy the "varnish-connections.sh" to your SysUsage /plugins/ directory
+  - append the following lines to your SysUsage Cfg and change your plugin path
 
         [PLUGIN varnishd_conn]
         title:Varnishd Connections (miyw)
