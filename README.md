@@ -4,7 +4,7 @@
 # Information
  This is a Plugin for SYSUSAGE v3 to show varnishd connections and requests
  - Please refer to http://sysusage.darold.net/ for questions regarding SysUsage
- - Refer to makeITyourway.de for questions regarding this plugin
+ - Refer to http://makeITyourway.de for questions regarding this plugin
 
 # Installation
  - copy the "varnish-connections.sh" to your SysUsage /plugins/ directory
